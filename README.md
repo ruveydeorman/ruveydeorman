@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rüveyde Orman 👋
 
-<!--
-**ruveydeorman/ruveydeorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Mersin, Turkiye  
+🎓 Europen University of Lefke - Software Engineering    
 
-Here are some ideas to get you started:
+## 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruveydeorman)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruveydeorman92@gmail.com)
+
+## 📊 GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[yourusername]&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=[yourusername]&color=blue)
